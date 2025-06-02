@@ -111,10 +111,3 @@ yarn dev
 * **MongoDB Connection Issues**: Double-check your `MONGODB_URI` and ensure MongoDB is running.
 * **Port Conflicts**: Adjust ports in `.env` or `vite.config.ts`.
 * **Favicon Not Updating**: Clear your browser cache.
-
----
-
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).
-
